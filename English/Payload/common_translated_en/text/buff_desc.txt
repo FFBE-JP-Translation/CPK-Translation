@@ -1,0 +1,212 @@
+Attack stat up
+Defense stat up
+Magic stat up
+Spirit stat up
+Attack stat down
+Defense stat down
+Magic stat down
+Spirit stat down
+Magic defense up
+Magic defense down
+Damage reduction
+Poison resistance
+Blind resistance
+Sleep resistance
+Silence resistance
+Paralysis resistance
+Confusion resistance
+Disease resistance
+Petrify resistance
+Zombie resistance
+Gradually restore HP
+Revive once when KO'd
+Gradually restore MP
+Fire resistance up
+Ice resistance up
+Lightning resistance up
+Water resistance up
+Wind resistance up
+Earth resistance up
+Light resistance up
+Dark resistance up
+Fire resistance down
+Ice resistance down
+Lightning resistance down
+Water resistance down
+Wind resistance down
+Earth resistance down
+Light resistance down
+Dark resistance down
+Attack stat up
+Defense stat up
+Magic stat up
+Spirit stat up
+Attack stat down
+Defense stat down
+Magic stat down
+Spirit stat down
+LB gauge fill rate up
+Sing a song with various effects
+Max HP up
+Max HP up
+Max MP up
+Max MP up
+Berserk
+Charmed - unable to act
+More likely to be targeted
+Evade physical attacks
+Reduce physical damage
+Reduce magic damage
+Absorb magic
+Reflect magic
+Stop time
+Increase damage
+Beast killer (physical)
+Bird killer (physical)
+Aquatic killer (physical)
+Demon killer (physical)
+Human killer (physical)
+Machine killer (physical)
+Dragon killer (physical)
+Spirit killer (physical)
+Bug killer (physical)
+Stone killer (physical)
+Plant killer (physical)
+Undead killer (physical)
+Beast killer (magical)
+Bird killer (magical)
+Aquatic killer (magical)
+Demon killer (magical)
+Human killer (magical)
+Machine killer (magical)
+Dragon killer (magical)
+Spirit killer (magical)
+Bug killer (magical)
+Stone killer (magical)
+Plant killer (magical)
+Undead killer (magical)
+Imbue fire
+Imbue ice
+Imbue lightning
+Imbue water
+Imbue wind
+Imbue earth
+Imbue light
+Imbue dark
+Attack down resistance
+Defense down resistance
+Magic down resistance
+Spirit down resistance
+Stop resistance
+Charm resistance
+Cover
+Dualcast
+Dualcast
+Use special abilities
+Reduce damage
+Physical damage resistance
+Magic damage resistance
+Instant death resistance
+Counter
+Reduce damage
+Reduce physical damage
+Reduce magic damage
+Lower physical evasion
+Lower non-elemental physical evasion
+Lower fire physical evasion
+Lower ice physical evasion
+Lower lightning physical evasion
+Lower water physical evasion
+Lower wind physical evasion
+Lower earth physical evasion
+Lower light physical evasion
+Lower dark physical evasion
+Lower magic evasion
+Lower non-elemental magic evasion
+Lower fire magic evasion
+Lower ice magic evasion
+Lower lightning magic evasion
+Lower water magic evasion
+Lower wind magic evasion
+Lower earth magic evasion
+Lower light magic evasion
+Lower dark magic evasion
+Take damage each turn
+Increase specific ability effects
+Lower equipment performance
+Increase LB damage
+Poison resistance
+Blind resistance
+Sleep resistance
+Silence resistance
+Paralysis resistance
+Confusion resistance
+Disease resistance
+Petrify resistance
+Zombie resistance
+Reduce physical damage from beasts
+Reduce physical damage from birds
+Reduce physical damage from aquatics
+Reduce physical damage from demons
+Reduce physical damage from humans
+Reduce physical damage from machines
+Reduce physical damage from dragons
+Reduce physical damage from spirits
+Reduce physical damage from bugs
+Reduce physical damage from stones
+Reduce physical damage from plants
+Reduce physical damage from undead
+Reduce magical damage from beasts
+Reduce magical damage from birds
+Reduce magical damage from aquatics
+Reduce magical damage from demons
+Reduce magical damage from humans
+Reduce magical damage from machines
+Reduce magical damage from dragons
+Reduce magical damage from spirits
+Reduce magical damage from bugs
+Reduce magical damage from stones
+Reduce magical damage from plants
+Reduce magical damage from undead
+Increase physical damage to beasts
+Increase physical damage to birds
+Increase physical damage to aquatics
+Increase physical damage to demons
+Increase physical damage to humans
+Increase physical damage to machines
+Increase physical damage to dragons
+Increase physical damage to spirits
+Increase physical damage to bugs
+Increase physical damage to stones
+Increase physical damage to plants
+Increase physical damage to undead
+Increase magical damage to beasts
+Increase magical damage to birds
+Increase magical damage to aquatics
+Increase magical damage to demons
+Increase magical damage to humans
+Increase magical damage to machines
+Increase magical damage to dragons
+Increase magical damage to spirits
+Increase magical damage to bugs
+Increase magical damage to stones
+Increase magical damage to plants
+Increase magical damage to undead
+Increase fire physical damage
+Increase ice physical damage
+Increase lightning physical damage
+Increase water physical damage
+Increase wind physical damage
+Increase earth physical damage
+Increase light physical damage
+Increase dark physical damage
+Increase fire magical damage
+Increase ice magical damage
+Increase lightning magical damage
+Increase water magical damage
+Increase wind magical damage
+Increase earth magical damage
+Increase light magical damage
+Increase dark magical damage
+Increase category damage
+Increase LB damage

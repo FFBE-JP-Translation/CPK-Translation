@@ -1,0 +1,9 @@
+﻿Poison
+Blind
+Sleep
+Silence
+Paralysis
+Confusion
+Disease
+Petrify
+Zombie
